@@ -1,0 +1,14 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  background-color: #484242;
+  color: azure;
+}
+body {
+  background-color: rgb(182, 242, 84);
+}
+.check {
+  background-color: rgb(225, 176, 153);
+}
